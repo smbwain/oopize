@@ -1,0 +1,27 @@
+{
+  "name": "oopize",
+  "version": "0.0.1",
+  "description": "Tiny javaScript library to build your classes inheritance in a convenient way.",
+  "main": "lib/oopize.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smbwain/oopize.git"
+  },
+  "keywords": [
+    "class",
+    "oop",
+    "inherit",
+    "extend"
+  ],
+  "author": "Roman Ditchuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smbwain/oopize/issues"
+  }
+}
