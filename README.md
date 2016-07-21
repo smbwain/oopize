@@ -4,6 +4,11 @@ oopize
 
 Tiny javaScript library to build your classes inheritance in a convenient way.
 
+DEPRECATED
+===========
+
+This library doesn't make sense anymore, as there are classes syntax in ES6.
+
 How it looks like
 ===================
 

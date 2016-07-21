@@ -1,6 +1,6 @@
 {
   "name": "oopize",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Tiny javaScript library to build your classes inheritance in a convenient way.",
   "main": "lib/oopize.js",
   "directories": {
